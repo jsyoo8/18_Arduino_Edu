@@ -10,3 +10,5 @@ test_ultrasonic은 초음파센서를 사용해서 일정 거리 이내일 경�
 test_car는 RC카에서 컨트롤 없는 상태로 기본이 되는 엔진 구동, 방향 제어 부분만 구현한 코드입니다.
 
 Bluetooth_Car는 test_car의 코드에 블루투스 컨트롤 부분을 추가하여 만든 코드입니다.
+
+IR_Car는 test_car의 코드에 IR 컨트롤 부분을 추가하여 만든 코드입니다.
